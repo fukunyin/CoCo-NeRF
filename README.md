@@ -1,4 +1,4 @@
-# CoCo-INR: Coordinates Are NOT Lonely  -- Codebook Prior Helps Implicit Neural 3D Representations (NeurIPS 2022)<br><sub>Official PyTorch implementation </sub>
+# CoCo-INR: Coordinates Are NOT Lonely  -- Codebook Prior Helps Implicit Neural 3D Representations <br><sub>Official PyTorch implementation </sub>
 
 **CoCo-INR: Coordinates Are NOT Lonely  -- Codebook Prior Helps Implicit Neural 3D Representations (NeurIPS 2022)**
 
