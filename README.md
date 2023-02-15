@@ -2,7 +2,7 @@
 
 **CoCo-INR: Coordinates Are NOT Lonely  -- Codebook Prior Helps Implicit Neural 3D Representations (NeurIPS 2022, Spotlight)**
 
-*Fukun Yin\*, Wen Liu\*, Zilong Huang, Pei Cheng, Tao Chen†, Gang YU*
+*[Fukun Yin](https://fukunyin.github.io/)\*, Wen Liu\*, Zilong Huang, Pei Cheng, Tao Chen†, Gang YU*
 
 \* equal contribution
 
